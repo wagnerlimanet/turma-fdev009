@@ -1,0 +1,20 @@
+/* início das classes globais */
+.aluno {
+    width: 100px;
+    margin: 5px;
+    padding: 10px;
+    background: yellowgreen;
+    float: right;
+    }
+/* fim das classes globais */
+
+.meninas, .meninos, .faltosos {
+    width: 96%;
+    float: left;
+    margin: 2%;
+    }
+
+.especial {
+    background: red;
+    color: white;
+    }

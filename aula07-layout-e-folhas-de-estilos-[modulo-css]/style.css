@@ -1,0 +1,43 @@
+body {
+    margin: 0;
+    }
+
+.cemporcento {
+    width: 100%;
+    }
+
+.oitentaporcento {
+    width: 80%;
+    }
+
+.vinteporcento {
+    width: 20%;
+    margin: 1%;
+    }
+
+header {
+    background: #333;
+    }
+
+    .menuelogo, .produtos, .titulo {
+        margin: 0 10%;
+        }
+
+        .logotipo {
+            width: 25%;
+            margin:1%;
+            float: left;
+            }
+
+        .menu {
+            width: 71%;
+            margin:1%;
+            color: white;
+            text-align: right;
+            float: left;
+            }
+
+    .produto {
+        float:left;
+        }
+
