@@ -1,0 +1,112 @@
+/* 
+GRID 960px :: 12 colunas -> 80px
+GRID 100%  :: 12 colunas -> 8,33%
+*/
+
+/* global */
+#geral {
+    width: 80%;
+    /* background: #f60; */
+    margin: 0px auto;
+    }
+
+    .btn {
+        border: none;
+        border-radius: 20px;
+        padding: 10px 20px;
+        }
+/* ************************ */
+
+/* cores */
+.txt-primario {
+    color: blue;
+    }
+
+.bg-primario {
+    background: blue;
+    }
+
+.btn-primario {
+    color:white ;
+    background: blue;
+    }
+
+.secundário {
+    }
+
+.txt-sucesso {
+    color: green;
+    }
+
+.bg-sucesso {
+    background: green;
+    }
+
+.btn-sucesso {
+    color:white ;
+    background: green;
+    }
+
+.alerta {
+    }
+
+.erro {
+    }
+
+.claro {
+    }
+
+.escuro {
+    }
+/* ************************ */
+
+/* grid */
+.col-1 {
+    width: 8,33%;
+    }
+
+.col-2 {
+    width: 16,66%;
+    }
+
+.col-3 {
+    width: 24,99%;
+    }
+
+.col-4 {
+    width: 33,32%;
+    }
+
+.col-5 {
+    width: 41,65%;
+    }
+
+.col-6 {
+    width: 49,98%;
+    }
+
+.col-7 {
+    width: 58,31%;
+    }
+
+.col-8 {
+    width: 66,64%;
+    }
+
+.col-9 {
+    width: 74,97%;
+    }
+
+.col-10 {
+    width: 83,3%;
+    }
+
+.col-11 {
+    width: 91,63%;
+    }
+
+.col-12 {
+    width: 100%;
+    }
+
+/* ************************ */
