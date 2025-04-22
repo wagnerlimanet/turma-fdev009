@@ -1,0 +1,11 @@
+*, a {
+    text-decoration: none;
+    }
+
+    .bgtopo {
+        background: url('imagens/bg-top-right.png') no-repeat top right #f5f5f5;
+        }
+
+    .bgbase {
+        background: url('imagens/bg-bottom-left.png') no-repeat bottom left;
+        }
